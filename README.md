@@ -7,7 +7,7 @@
     * Arraylerle arasındaki fark nedir?
 3) **Tensörlerin Bilgilerine Erişmek**
     * `Shape`, `rank` ve `size` nedir?
-4) **Tensör Operasyonları*
+4) **Tensör Operasyonları**
     * Matematiksel işlemler
     * Matris çarpımı
       * `tf.transpose()` ve `tf.reshape()` 
