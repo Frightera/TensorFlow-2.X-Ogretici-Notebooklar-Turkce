@@ -27,6 +27,7 @@
 1) **Normal Lineer Regresyon**
 2) **Gradyan Patlaması Sorunu**
    * Gradient Clipping ve Adaptive Optimizer
-3) AdaGrad, RMSProp ve Adam Optimizerları
-4) Modele Dense Layer Eklemek 
+3) AdaGrad, RMSProp ve Adam Optimizerları Nedir? 
+   * Matematiksel gösterimleriyle arasındaki ilişki
+5) Modele Dense Layer Eklemek 
 
