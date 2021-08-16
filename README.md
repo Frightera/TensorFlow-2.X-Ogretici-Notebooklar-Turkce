@@ -23,3 +23,10 @@
 8) **@tf.function ve AutoGraph**
       * TF1.X graf objesi ve TF2.X yenilikleri
 
+### 1- TensorFlow - Keras ile Lineer Regresyon ve Patlayan Gradyanlar
+1) **Normal Lineer Regresyon**
+2) **Gradyan Patlaması Sorunu**
+   * Gradient Clipping ve Adaptive Optimizer
+3) AdaGrad, RMSProp ve Adam Optimizerları
+4) Modele Dense Layer Eklemek 
+
