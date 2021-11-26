@@ -48,3 +48,24 @@
 4) **Functional API ile Bir Inputu İki Farklı Şekilde Kullanmak**
    * Modeli plot ederek daha iyi görmek
 5) **Confusion Matrix ve Classification Report Yazdırmak**
+
+### X - tf.data, tf.image, tfa.image, MiniDenseNet, RAdam Part 1-2
+1) **Veri Yükleme**
+   * `tf.data.Dataset.list_files()` Kullanımı
+2) **tf.data Pipeline**
+   * tf.data pipeline'ı oluşturup, tf.image ve tfa.image kullanarak farklı dönüşümler uygulamak.
+3) **Modeli Oluşturmak**
+   * Mini DenseNet ve Layer Subclassing kullanmak
+   * Modeli custom training loop kullanarak eğitmek
+4) **Loss ve Accuracy**
+   * Training loop kullanarak toplanan loss ve accuracy değerlerini plot edip görmek
+5) Model Performansı
+   * Modelin performansını görmek için confusion matrix ve classification report kullanmak
+
+### X.1 - Notebook X + GradCAM
+#### Notebook X'i tamamen kapsayıp ek olarak Grad-CAM anlatımı mevcuttur.
+6) Grad-CAM
+   * Neden GradCAM'e ihtiyaç duyarız?
+   * GradCAM Nedir?
+   * GradCAM'i test setinde denemek
+
