@@ -68,4 +68,5 @@
    * Neden GradCAM'e ihtiyaç duyarız?
    * GradCAM Nedir?
    * GradCAM'i test setinde denemek
+   ![image](https://user-images.githubusercontent.com/46622558/143658932-3d820882-7e40-436f-acfa-d70750accffe.png)
 
