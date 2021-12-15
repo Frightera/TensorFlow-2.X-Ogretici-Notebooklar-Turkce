@@ -1,5 +1,7 @@
 ## TensorFlow 2.X Öğretici Notebooklar Serisi
 
+### --- Özel olarak istediğiniz bir konu varsa `Issues` kısmından belirtebilirsiniz. ---
+
 ### 0 - TensorFlow'a Giriş
 1) **TensorFlow Nedir? TensorFlow ve GPU**
 2) **Tensörlere Giriş**
