@@ -1,7 +1,8 @@
 ## TensorFlow 2.X Öğretici Notebooklar Serisi
 
 ### --- Özel olarak istediğiniz bir konu varsa `Issues` kısmından belirtebilirsiniz. ---
-### Bir sonraki notebook: *TensorFlow ile Linear Algebra İşlemleri (yüklenecek).*
+### Gelecek notebook: *TensorFlow ile Linear Algebra İşlemleri (yüklenecek).*
+### Gelecek notebook: *TensorFlow-Keras ile Transfer Learning ve Çoklu Optimizer Yaklaşımı (yüklenecek).*
 
 ### 0 - TensorFlow'a Giriş
 1) **TensorFlow Nedir? TensorFlow ve GPU**
