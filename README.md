@@ -3,6 +3,7 @@
 ### --- Özel olarak istediğiniz bir konu varsa `Issues` kısmından belirtebilirsiniz. ---
 ### Gelecek notebook: *TensorFlow ile Linear Algebra İşlemleri (yüklenecek).*
 ### Gelecek notebook: *TensorFlow-Keras ile Transfer Learning ve Çoklu Optimizer Yaklaşımı (yüklenecek).*
+### Gelecek notebook: *@tf.function Detaylı Anlatım (yüklenecek).*
 
 ### 0 - TensorFlow'a Giriş
 1) **TensorFlow Nedir? TensorFlow ve GPU**
