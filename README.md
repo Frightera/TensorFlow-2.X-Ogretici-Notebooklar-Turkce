@@ -2,7 +2,6 @@
 
 ### --- Özel olarak istediğiniz bir konu varsa `Issues` kısmından belirtebilirsiniz. ---
 ### Gelecek notebook: *TensorFlow ile Linear Algebra İşlemleri (yüklenecek).*
-### Gelecek notebook: *TensorFlow-Keras ile Transfer Learning ve Çoklu Optimizer Yaklaşımı (yüklenecek).*
 ### Gelecek notebook: *@tf.function Detaylı Anlatım (yüklenecek).*
 
 ### 0 - TensorFlow'a Giriş
@@ -53,6 +52,22 @@
 4) **Functional API ile Bir Inputu İki Farklı Şekilde Kullanmak**
    * Modeli plot ederek daha iyi görmek
 5) **Confusion Matrix ve Classification Report Yazdırmak**
+
+### 4 - DenseNet121 ve Çoklu Optimizer Yaklaşımı
+1) **Kütüphaneler**
+2) **Veriyi Yükleme ve Normalize Etme**
+3) **Preprocessing Layerları**
+4) **Transfer Learning Nedir?**
+   * Önceden Eğitilmiş Modeli Doğrudan Kullanmak
+   * Önceden Eğitilmiş Modelleri Özellik Çıkarıcı (Feature Extractor) Olarak Kullanmak
+   * Önceden Eğitilmiş Modelin Son Katmanlarını -Fine Tune- Etmek
+   * Başlangıç Noktası Olarak Önceden Eğitilmiş Bir Model Kullanmak
+5) **Optimizerlar**
+   * RAdam
+   * Lookahead
+   * LazyAdam
+6) **Multi-Optimizer Wrapper - TensorFlow Addons**
+7) **Modelin Test Setindeki Başarısı**
 
 ### X - tf.data, tf.image, tfa.image, MiniDenseNet, RAdam Part 1-2
 1) **Veri Yükleme**
