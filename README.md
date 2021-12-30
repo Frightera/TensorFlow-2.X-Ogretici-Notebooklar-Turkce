@@ -1,7 +1,8 @@
 ## TensorFlow 2.X Öğretici Notebooklar Serisi
 
 ### --- Özel olarak istediğiniz bir konu varsa kaan.bicakci@kalybeai.com mail adresine yazabilirsiniz. ---
-### Planan notebook: *TensorFlow ile Lineer Cebir İşlemleri (yüklenecek).*
+### Planan notebook: *Multihead Attention ile Binary Classification (Tamamlanmak üzere).*
+### Planan notebook: *TensorFlow ile Lineer Cebir İşlemleri (Tamamlanmak üzere).*
 ### Planan notebook: *@tf.function Detaylı Anlatım (yüklenecek).*
 ### Planan Anlatım: *C++ ile TensorFlow için Harici Operasyonlar Yazma*
 
