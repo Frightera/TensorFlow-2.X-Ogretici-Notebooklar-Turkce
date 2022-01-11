@@ -1,7 +1,7 @@
 ## TensorFlow 2.X Öğretici Notebooklar Serisi
 
 ### --- Özel olarak istediğiniz bir konu varsa kaan.bicakci@kalybeai.com mail adresine yazabilirsiniz. ---
-### Planan notebook: *Multihead Attention ile Binary Classification (Tamamlanmak üzere).*
+### Planan notebook: *Detaylı Transformer Anlatımı ve Binary Classification (Yüklendi).*
 ### Planan notebook: *TensorFlow ile Lineer Cebir İşlemleri (Tamamlanmak üzere).*
 ### Planan notebook: *@tf.function Detaylı Anlatım (yüklenecek).*
 ### Planan Anlatım: *C++ ile TensorFlow için Harici Operasyonlar Yazma*
@@ -70,6 +70,55 @@
    * LazyAdam
 6) **Multi-Optimizer Wrapper - TensorFlow Addons**
 7) **Modelin Test Setindeki Başarısı**
+
+### 5 - Detaylı Transformer Anlatımı - CNN ile Ensemble
+#### Kütüphaneler
+* **TensorFlow - Keras**
+* **TFDS**: `wikipedia_toxicity_subtypes` verisetinin yüklenmesi.
+* **TensorFlow Addons**
+* **Plotly**
+* **Sklearn**
+* **Matplotlib - Seaborn**
+
+#### Verisetinin İşlenmesi
+Kullanılan fonksiyonlar:
+* `tf.strings.regex_replace`
+* `tf.strings.lower`
+* `tf.one_hot`
+* Cümleler için Max Uzunluk Seçilmesi
+* `TextVectorization` Layerının Kullanılması
+
+#### Attention, Multihead Attention Nedir?
+* RNN Yapılarının Yüzeysel Üstünden Geçilmesi
+  * Vektör - Dizi Modelleri (Vector-to-Sequence)
+  * Dizi - Vektör Modelleri (Sequence-to-Vector)
+  * Dizi - Dizi Modelleri (Sequence-to-Sequence)
+* RNN'lerdeki Sorun ve Transformer ile Karşılaştırma
+* Word Embedding
+* Positional Encoding
+  * Transformer Neden Buna İhtiyaç Duyuyor?
+  * Cümle Uzunluğuna Göre Vektörler Tanımlamak
+  * Normalize Vektörler Kullanmak
+  * Attention Is All You Need --> Önerilen Çözüm
+    * 3D Plotlar ile Çözümün Açıklanması
+* Transformer Mimarisine Giriş
+  * Kısaca Attention Nedir?
+  * Self-Attention Nedir?
+  * Transformerdaki MultiHeadAttention Nedir?
+    * Key, Value, Query Kavramları
+    * Adım Adım Matris İşlemleri
+    * Attention Filter
+    * Multihead ve Attention Head Açıklaması
+
+#### Transformer Modelinin Yazılması
+* Transformer Encoder Kısmının `tf.keras.layers.Layer` Olarak Yazılması
+* Word + Positional Embeddinglerinin `tf.keras.layers.Layer` Olarak Yazılması
+
+#### Ana Modelin Functional API ile Yazılması
+* Transformer Mimarisinin Eklenmesi
+* 1D CNN Yapılarının Eklenmesi
+* Çıktıların Birleştirilmesi
+
 
 ### X - tf.data, tf.image, tfa.image, MiniDenseNet, RAdam Part 1-2
 1) **Veri Yükleme**
