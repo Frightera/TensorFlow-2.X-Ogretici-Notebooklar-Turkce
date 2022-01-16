@@ -1,7 +1,6 @@
 ## TensorFlow 2.X Öğretici Notebooklar Serisi
 
 ### --- Özel olarak istediğiniz bir konu varsa kaan.bicakci@kalybeai.com mail adresine yazabilirsiniz. ---
-### Planan notebook: *Detaylı Transformer Anlatımı ve Binary Classification (Yüklendi).*
 ### Planan notebook: *TensorFlow ile Lineer Cebir İşlemleri (Tamamlanmak üzere).*
 ### Planan notebook: *@tf.function Detaylı Anlatım (yüklenecek).*
 ### Planan Anlatım: *C++ ile TensorFlow için Harici Operasyonlar Yazma*
@@ -120,7 +119,7 @@ Kullanılan fonksiyonlar:
 * Çıktıların Birleştirilmesi
 
 
-### X - tf.data, tf.image, tfa.image, MiniDenseNet, RAdam Part 1-2
+### 6 - tf.data, tf.image, tfa.image, MiniDenseNet, RAdam Part 1-2
 1) **Veri Yükleme**
    * `tf.data.Dataset.list_files()` Kullanımı
 2) **tf.data Pipeline**
@@ -133,8 +132,8 @@ Kullanılan fonksiyonlar:
 5) Model Performansı
    * Modelin performansını görmek için confusion matrix ve classification report kullanmak
 
-### X.1 - Notebook X + GradCAM
-#### Notebook X'i tamamen kapsayıp ek olarak Grad-CAM anlatımı mevcuttur.
+### 6.1 - Notebook X + GradCAM
+#### Notebook 6'yı tamamen kapsayıp ek olarak Grad-CAM anlatımı mevcuttur.
 6) Grad-CAM
    * Neden GradCAM'e ihtiyaç duyarız?
    * GradCAM Nedir?
