@@ -140,3 +140,24 @@ Kullanılan fonksiyonlar:
    * GradCAM'i test setinde denemek
    * ![image](https://user-images.githubusercontent.com/46622558/143658932-3d820882-7e40-436f-acfa-d70750accffe.png)
 
+### 7 - Softmax Çıktıları ve -Adversarial Attack- 
+1) **fashion_mnist Verisetini Yükleyip Hazırlamak**
+   * tf.one_hot()
+   * tf.cast()
+   * prefetch()
+2) **Basit Bir CNN Yazmak**
+   * Conv2D()
+   * MaxPooling2D()
+3) **Resimlere Basit Noise Ekleyip Tahmin Almak**
+   * Noise ve Etkilenen Softmax Çıktıları
+4) **InceptionResNetV2'de Aynı Noise Yaklaşımını Test Etmek**
+   * 55M Parametresi Olan InceptionResNetV2
+   * Noise ve InceptionResNetV2
+5) **tf.GradientTape**
+   * tape.watch()
+   * optimizer.apply_gradients()
+6) **InceptionResNetV2'ye Adversarial Attack**
+   * Özel Bir Noise Vektörü Oluşturmak
+   * Sonucu Görselleştirmek
+   * ![kapakresmi](https://user-images.githubusercontent.com/46622558/150648393-7200500b-69df-4d5e-b567-261516e48043.png)
+
