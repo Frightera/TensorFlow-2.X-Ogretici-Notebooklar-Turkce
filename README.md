@@ -159,5 +159,6 @@ Kullanılan fonksiyonlar:
 6) **InceptionResNetV2'ye Adversarial Attack**
    * Özel Bir Noise Vektörü Oluşturmak
    * Sonucu Görselleştirmek
-   * ![kapakresmi](https://user-images.githubusercontent.com/46622558/150648393-7200500b-69df-4d5e-b567-261516e48043.png)
+   * ![kapakresmi](https://user-images.githubusercontent.com/46622558/150686075-ceee48f2-c15d-41d0-b7c5-a0506dd19f91.png)
+
 
