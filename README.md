@@ -1,10 +1,5 @@
 ## TensorFlow 2.X Öğretici Notebooklar Serisi
 
-### --- Özel olarak istediğiniz bir konu varsa kaan.bicakci@kalybeai.com mail adresine yazabilirsiniz. ---
-### Planan notebook: *TensorFlow ile Lineer Cebir İşlemleri (Tamamlandı - Yüklenecek).*
-### Planan notebook: *@tf.function Detaylı Anlatım (yüklenecek).*
-### Planan Anlatım: *C++ ile TensorFlow için Harici Operasyonlar Yazma*
-
 ### 0 - TensorFlow'a Giriş
 1) **TensorFlow Nedir? TensorFlow ve GPU**
 2) **Tensörlere Giriş**
