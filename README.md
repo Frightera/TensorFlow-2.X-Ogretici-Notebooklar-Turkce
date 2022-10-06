@@ -1,8 +1,14 @@
 # TensorFlow 2.X Öğretici Notebooklar Serisi
 
-## Yenileri kısa süre içinde gelmeye başlayacak.
+## Yüklenecekler:
+|  **Tarih** |                    **Notebook**                   |
+|:----------:|:-------------------------------------------------:|
+| 09.10.2022 |           TensorFlow-Probability ile VAE          |
+| 16.10.2022 |   Object Detection Mantığı \| Sıfırdan OD Modeli  |
+| 19.10.2022 | TensorFlow ve Lineer Cebir İşlemleri \| tf.linalg |
+|  24.10.22  |    SOTA Modeli REST-API Kullanarak Deploy Etmek   |
 
-## Genel Bakış
+## Genel Bakış - Mevcut Olanlar
 |  **#**  |                          **Konu**                          |                                                                                                                                   **Colab Linki**                                                                                                                                   |
 |:-------:|:----------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | **0**   |                     TensorFlow'a Giriş                     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frightera/TensorFlow-2.X-Ogretici-Notebooklar-Turkce/blob/main/0%20-%20TensorFlow'a_Giri%C5%9F%20(G%C3%BCncellendi).ipynb)                                   |
