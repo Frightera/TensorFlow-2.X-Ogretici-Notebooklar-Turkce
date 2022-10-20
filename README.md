@@ -1,12 +1,12 @@
 # TensorFlow 2.X Öğretici Notebooklar Serisi
 
 ## Yüklenecekler:
-|  **Tarih** |                    **Notebook**                   |
-|:----------:|:-------------------------------------------------:|
-| 09.10.2022 |           TensorFlow-Probability ile VAE          |
-| 16.10.2022 |   Object Detection Mantığı \| Sıfırdan OD Modeli  |
-| 19.10.2022 | TensorFlow ve Lineer Cebir İşlemleri \| tf.linalg |
-|  24.10.22  |    SOTA Modeli REST-API Kullanarak Deploy Etmek   |
+| **Yüklendiği Tarih** |                    **Notebook**                   |
+|:--------------------:|:-------------------------------------------------:|
+|      21.10.2022      |           TensorFlow-Probability ile VAE          |
+|                      |   Object Detection Mantığı \| Sıfırdan OD Modeli  |
+|                      | TensorFlow ve Lineer Cebir İşlemleri \| tf.linalg |
+|                      |    SOTA Modeli REST-API Kullanarak Deploy Etmek   |
 
 ## Genel Bakış - Mevcut Olanlar
 |  **#**  |                          **Konu**                          |                                                                                                                                   **Colab Linki**                                                                                                                                   |
