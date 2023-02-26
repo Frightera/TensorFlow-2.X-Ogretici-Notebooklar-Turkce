@@ -1,12 +1,11 @@
 # TensorFlow 2.X Öğretici Notebooklar Serisi
 
-## Yüklenecekler:
-| **Yüklendiği Tarih** |                    **Notebook**                   |
-|:--------------------:|:-------------------------------------------------:|
-|      21.10.2022      |           TensorFlow-Probability ile VAE          |
-|                      |   Object Detection Mantığı \| Sıfırdan OD Modeli  |
-|                      | TensorFlow ve Lineer Cebir İşlemleri \| tf.linalg |
-|                      |    SOTA Modeli REST-API Kullanarak Deploy Etmek   |
+## Videolar
+#### 1 saatte TensorFlow Hub ile Dengesiz Veriseti Sınıflandırma - Focal Loss Giriş
+* https://www.youtube.com/watch?v=SRBCuTAnvSg
+
+#### 1 Saatte TensorFlow ile Görüntü Sınıflandırma | ANN - CNN - Transfer Learning
+* https://www.youtube.com/watch?v=WW-BUMADPtQ&
 
 ## Genel Bakış - Mevcut Olanlar
 |  **#**  |                          **Konu**                          |                                                                                                                                   **Colab Linki**                                                                                                                                   |
@@ -23,7 +22,9 @@
 | **7**   |          Softmax Çıktıları ve -Adversarial Attack-         | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frightera/TensorFlow-2.X-Ogretici-Notebooklar-Turkce/blob/main/7%20-%20Softmax%20Çıktıları%20ve%20-Adversarial%20Attack-%20.ipynb)                           |
 | **8**   |            Sıfırdan Küçük ResNet ve Subclassing            | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frightera/TensorFlow-2.X-Ogretici-Notebooklar-Turkce/blob/main/8%20-%20Sıfırdan%20Küçük%20ResNet%20ve%20Subclassing.ipynb)                                   |
 | **9**   |                   Multi-Output All-In-One                  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frightera/TensorFlow-2.X-Ogretici-Notebooklar-Turkce/blob/main/9%20-%20Multi-Output%20All-In-One.ipynb)                                                      |
-
+| **10**   |                   VAE ve TensorFlow Probability                  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frightera/TensorFlow-2.X-Ogretici-Notebooklar-Turkce/blob/main/10%20%20-%20VAE%20ve%20TensorFlow%20Probability.ipynb)                                        |
+| **11**   |                   Video - TF ile Görüntü Sınıflandırma                  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frightera/TensorFlow-2.X-Ogretici-Notebooklar-Turkce/blob/main/11%20-%20Video%20-%20TF%20ile%20Görüntü%20Sınıflandırma.ipynb)                                |
+| **12**   |                   Video - TF Hub, Focal Loss ve Imbalanced_Classification                  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frightera/TensorFlow-2.X-Ogretici-Notebooklar-Turkce/blob/main/12%20-%20Video%20-%20TF%20Hub%2C%20Focal%20Loss%20ve%20Imbalanced_Classification.ipynb)                                       |
 ## Detaylı Açıklamalar
 
 ### 0 - TensorFlow'a Giriş
@@ -181,5 +182,3 @@ Kullanılan fonksiyonlar:
    * Özel Bir Noise Vektörü Oluşturmak
    * Sonucu Görselleştirmek
    * ![kapakresmi](https://user-images.githubusercontent.com/46622558/150686075-ceee48f2-c15d-41d0-b7c5-a0506dd19f91.png)
-
-
