@@ -7,6 +7,9 @@
 #### 1 Saatte TensorFlow ile Görüntü Sınıflandırma | ANN - CNN - Transfer Learning
 * https://www.youtube.com/watch?v=WW-BUMADPtQ&
 
+#### TF-Keras Sıfırdan Loss Yazma - Focal Loss ve Class Weight İlişkisi
+* https://www.youtube.com/watch?v=ooEvgEQhXcQ
+
 ## Genel Bakış - Mevcut Olanlar
 |  **#**  |                          **Konu**                          |                                                                                                                                   **Colab Linki**                                                                                                                                   |
 |:-------:|:----------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
@@ -25,6 +28,9 @@
 | **10**   |                   VAE ve TensorFlow Probability                  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frightera/TensorFlow-2.X-Ogretici-Notebooklar-Turkce/blob/main/10%20%20-%20VAE%20ve%20TensorFlow%20Probability.ipynb)                                        |
 | **11**   |                   Video - TF ile Görüntü Sınıflandırma                  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frightera/TensorFlow-2.X-Ogretici-Notebooklar-Turkce/blob/main/11%20-%20Video%20-%20TF%20ile%20Görüntü%20Sınıflandırma.ipynb)                                |
 | **12**   |                   Video - TF Hub, Focal Loss ve Imbalanced_Classification                  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frightera/TensorFlow-2.X-Ogretici-Notebooklar-Turkce/blob/main/12%20-%20Video%20-%20TF%20Hub%2C%20Focal%20Loss%20ve%20Imbalanced_Classification.ipynb)                                       |
+| **12.1**   |                   Video - TF-Keras Sıfırdan Loss Yazma - Focal Loss ve Class Weight İlişkisi | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frightera/TensorFlow-2.X-Ogretici-Notebooklar-Turkce/blob/main/12%20-%20Focal_Loss_Etkisi_ve_Class_Weights.ipynb)                                       |
+
+
 ## Detaylı Açıklamalar
 
 ### 0 - TensorFlow'a Giriş
