@@ -1,5 +1,9 @@
 # TensorFlow 2.X Öğretici Notebooklar Serisi
 
+## NOT
+Bazı notebooklarda kullandığım TensorFlow-Addons Mayıs 2024'te hayatının sonuna gelecektir. Belli fonksiyonlar zamanla
+Keras içine entegre edilecektir. Major değişimler olduğu sürece güncellemelere devam edeceğim.
+
 ## Videolar
 #### 1 saatte TensorFlow Hub ile Dengesiz Veriseti Sınıflandırma - Focal Loss Giriş
 * https://www.youtube.com/watch?v=SRBCuTAnvSg
